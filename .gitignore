@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Build and pin_dir
+/build
+/pin_dir
+
+#trace output
+*.gz
+*.json
+*.sbin
+*.bin
